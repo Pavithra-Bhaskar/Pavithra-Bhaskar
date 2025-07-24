@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pavithra Bhaskar
 
-I’m into data — exploring it, cleaning it, and building useful dashboards with it
+I work with data to find insights, solve problems, and build clear visuals.
 <img align="right" src="https://i.gifer.com/JXA0.gif" width="250"/>
 
 Currently working on:
