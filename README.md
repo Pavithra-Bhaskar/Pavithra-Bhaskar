@@ -7,6 +7,7 @@ Currently working on:
 - Cleaning real-world datasets using Python (pandas)
 - Building interactive dashboards with Power BI
 - Learning more about SQL and data analysis
+- Working on data science projects involving machine learning & real-world insights
 
 I enjoy solving problems with data and turning it into something clear and actionable.
 
