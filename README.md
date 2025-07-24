@@ -1,23 +1,16 @@
 # 👋 Hi, I'm Pavithra Bhaskar
 
-I'm interested in working with data- cleaning it, analyzing it, and turning it into something useful and clear.
+I’m into data — exploring it, cleaning it, and building useful dashboards with it
+<img align="right" src="https://i.gifer.com/JXA0.gif" width="250"/>
 
-### 📌 What I'm Doing Now
-- Cleaning real-world datasets using **Python (pandas)**
-- Building interactive dashboards with **Power BI**
-- Practicing SQL for querying and data exploration
+Currently working on:
+- Cleaning real-world datasets using Python (pandas)
+- Building interactive dashboards with Power BI
+- Learning more about SQL and data analysis
 
-### 🚧 What's Next
-- Building small **machine learning projects** using scikit-learn
-- Creating **interactive data apps with Streamlit**
-- Exploring end-to-end workflows: from raw data → analysis → app/dashboard
-
-I like keeping things practical, clean, and focused on solving real problems.
+I enjoy solving problems with data and turning it into something clear and actionable.
 
 ---
-[![Pavithra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pavithra-Bhaskar&show_icons=true&theme=dracula)](https://github.com/Pavithra-Bhaskar/github-readme-stats#gh-dark-mode-only)
----
-
 ## 📫 Connect
 
 - [LinkedIn](www.linkedin.com/in/pavithrabhaskar)
