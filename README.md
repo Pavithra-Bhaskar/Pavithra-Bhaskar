@@ -15,28 +15,13 @@ I'm interested in working with data- cleaning it, analyzing it, and turning it i
 I like keeping things practical, clean, and focused on solving real problems.
 
 ---
-
-## 🛠️ Tools & Skills
-
-- **Python** – pandas, NumPy, matplotlib
-- **Power BI** – dashboards, DAX, data modeling
-- **SQL** – basic querying, joins, groupings
-- **Streamlit** (learning)
-- **Excel**
-
----
-
-## 📁 Projects
-
-- **Data Cleaning in Python** – exploring and preparing raw data for analysis  
-- **Pizza Sales Dashboard** – Power BI report built on cleaned Pizza sales data  
-- **Coming soon** – ML prediction project + Streamlit web app
-
+[![Pavithra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pavithra-Bhaskar&show_icons=true&theme=dracula)](https://github.com/Pavithra-Bhaskar/github-readme-stats#gh-dark-mode-only)
 ---
 
 ## 📫 Connect
 
 - [LinkedIn](www.linkedin.com/in/pavithrabhaskar)
+- pavithrabhaskar.tech@gmail.com
 
 I'm always learning and building — feel free to check out my projects or connect.
 
